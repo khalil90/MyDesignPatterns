@@ -1,0 +1,9 @@
+/adapter/
+/bridge/
+/composite/
+/decorator/
+/factory/
+/iterator/
+/observer/
+/prototype/
+/singleton/
