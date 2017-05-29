@@ -6,7 +6,7 @@ public abstract class Shape implements Cloneable {
 	  
 	   protected String type;
 	   
-	   abstract void draw();
+	   public abstract void draw();
 	   
 	   public String getType(){
 	      return type;
