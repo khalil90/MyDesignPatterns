@@ -6,7 +6,7 @@ public class SoccerBallHolder {
 	
 	public static class Holder{
 		
-		private static final SoccerBallHolder soccerBallHolder= new SoccerBallHolder();
+	private static final SoccerBallHolder soccerBallHolder= new SoccerBallHolder();
 		
 	}
 
